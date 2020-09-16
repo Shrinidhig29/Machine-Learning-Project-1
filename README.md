@@ -1,2 +1,2 @@
-# Machine-Learning-Project-1
+# Machine-Learning-Projects
 Real Estate Price prediction
